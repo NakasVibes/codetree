@@ -5,6 +5,6 @@ int main() {
     int a;
     cin >> a;
     a = a * 2;
-    cout << c;
+    cout << a;
     return 0;
 }
