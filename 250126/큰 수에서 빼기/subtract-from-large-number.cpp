@@ -13,8 +13,8 @@ int main() {
         cout << b - a << endl;
     }
 
-    else ( a == b) {
-        cout << a - b;
+    else {
+        cout << a - b << endl;
     }
     
     return 0;
