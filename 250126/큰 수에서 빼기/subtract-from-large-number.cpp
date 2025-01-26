@@ -14,7 +14,7 @@ int main() {
     }
 
     else ( a == b) {
-        cout << endl;
+        cout << a - b;
     }
     
     return 0;
