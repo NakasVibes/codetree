@@ -9,7 +9,7 @@ int main() {
         cout << a - b << endl;
     }
 
-    if ( a < b ) {
+    else if ( a < b ) {
         cout << b - a << endl;
     }
     
