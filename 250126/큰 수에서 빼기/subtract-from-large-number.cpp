@@ -12,6 +12,10 @@ int main() {
     else if ( a < b ) {
         cout << b - a << endl;
     }
+
+    else ( a == b) {
+        cout << endl;
+    }
     
     return 0;
 }
