@@ -15,7 +15,7 @@ int main() {
 
     
     if ( a == b && a == c ) {
-        cout << "1" << endl;
+        cout << "1" << " ";
     }
 
     else {
